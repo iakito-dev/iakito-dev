@@ -24,7 +24,7 @@
 ---
 
 ### 💬 Ask Me About
-**Databases (MySQL)**, **AWS architecture**, and **DevOps workflows**
+**Databases (RDS, Aurora MySQL)**, **AWS architecture**, and **DevOps workflows**
 
 ---
 
