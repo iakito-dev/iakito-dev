@@ -11,7 +11,7 @@
 ---
 
 ### 🔭 Projects
-- [**Today’s Cocktail**](https://todayscocktails.com) – A cocktail recipe web app built with **Rails API + React + Supabase**  
+- [**Today’s Cocktail**](https://todayscocktails.com) – A cocktail recipe web app built with **Rails API + React + AWS**  
   _Explore cocktail recipes, ingredients, and daily picks_
 
 ---
@@ -24,7 +24,7 @@
 ---
 
 ### 💬 Ask Me About
-**Databases (MySQL, PostgreSQL, DynamoDB)**, **AWS architecture**, and **DevOps workflows**
+**Databases (MySQL)**, **AWS architecture**, and **DevOps workflows**
 
 ---
 
