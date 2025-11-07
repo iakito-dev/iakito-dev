@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akito</h1>
-<h3 align="center">A passionate Full-Stack & DevOps Engineer from Japan 🇯🇵, based in London 🇬🇧</h3>
+<h3 align="center">A passionate Software Developer from Japan 🇯🇵, based in London 🇬🇧</h3>
 
 ---
 
 ### 🧭 About Me
-- 🌍 Originally from **Tokyo, Japan** — with experience living in **Ireland, Canada, Spain, and the UK**
-- 💼 Former **Cloud Support Engineer at AWS Japan**, now pursuing **Full-Stack & DevOps engineering**
-- ☕ Passionate about **cloud architecture, backend development, and coffee culture**
+- 🌍 Originally from **Tokyo, Japan** — with experience living in **Ireland🇮🇪, Canada🇨🇦, Spain🇪🇸, and the UK🇬🇧**
+- 💼 Former **Cloud Support Engineer at AWS Japan**, now pursuing **Software development role**
+- ☕ Passionate about **Web Application development, Cloud　Technologies, DevOps, etc..**
 
 ---
 
 ### 🔭 Projects
-- [**Today’s Cocktail**](https://todayscocktails.com) – A cocktail recipe web app built with **Rails API + React + AWS**  
+- [**Today’s Cocktail**](https://todayscocktails.com) – A cocktail recipe web app built with **Rails API + React + Supabase + OpenAI API**  
   _Explore cocktail recipes, ingredients, and daily picks_
 
 ---
