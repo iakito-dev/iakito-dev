@@ -6,7 +6,7 @@
 ### 🧭 About Me
 - 🌍 Originally from **Tokyo, Japan** — with experience living in **Ireland🇮🇪, Canada🇨🇦, Spain🇪🇸, and the UK🇬🇧**
 - 💼 Former **Cloud Support Engineer at AWS Japan**, now pursuing **Software development role**
-- ☕ Passionate about **Web Application development, Cloud　Technologies, DevOps, etc..**
+- ☕ Passionate about **Web Application development, Cloud Technologies, DevOps, etc.**
 
 ---
 
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iakito-dev&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=iakito-dev&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
