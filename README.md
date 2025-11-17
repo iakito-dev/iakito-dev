@@ -4,9 +4,9 @@
 ---
 
 ### About Me
-- 🌍 Originally from **Tokyo, Japan** — with experience living in **Ireland🇮🇪, Canada🇨🇦, Spain🇪🇸, and the UK🇬🇧**
-- 💼 Former **Cloud Support Engineer at AWS Japan**, now pursuing **Software development role**
-- ☕ Passionate about **Web Application development, Cloud Technologies, DevOps, etc.**
+- Originally from **Tokyo, Japan** — with experience living in **Ireland🇮🇪, Canada🇨🇦, Spain🇪🇸, and the UK🇬🇧**
+- Former **Cloud Support Engineer at AWS Japan**, now pursuing **Software development role**
+- Passionate about **Web Application development, Cloud Technologies, DevOps, etc.**
 
 ---
 
@@ -62,7 +62,3 @@
 - 📧 **iakito.dev@gmail.com**  
 - 🌐 [Portfolio – todayscocktails.com](https://todayscocktails.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/akito-dev)
-
----
-
-<p align="center"><i>“Learning, building, and sharing — one step at a time.”</i></p>
