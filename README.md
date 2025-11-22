@@ -7,11 +7,12 @@
 - Originally from **Tokyo, Japan** — with experience living in **Ireland🇮🇪, Canada🇨🇦, Spain🇪🇸, and the UK🇬🇧**
 - Former **Cloud Support Engineer at AWS Japan**, now pursuing **Software development role**
 - Passionate about **Web Application development, Cloud Technologies, DevOps, etc.**
+- **My Resume:** https://iakito-dev.github.io/Resume_JP/
 
 ---
 
 ### Projects
-- [**Today’s Cocktail**](https://todayscocktails.com) – A cocktail recipe web app built with **Rails API + React + Supabase + OpenAI API**  
+- [**Today’s Cocktail**](https://github.com/iakito-dev/todays-cocktail) – A cocktail recipe web app built with **Rails API + React + Supabase + OpenAI API**  
   _Explore cocktail recipes, ingredients, and daily picks_
 
 ---
