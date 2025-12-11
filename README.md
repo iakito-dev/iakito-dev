@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akito</h1>
-<h3 align="center">A passionate Software Developer from Japan 🇯🇵, based in London 🇬🇧</h3>
+<h3 align="center">A passionate Software Developer from Japan 🇯🇵</h3>
 
 ---
 
