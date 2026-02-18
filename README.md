@@ -1,14 +1,6 @@
-<h1 align="center">Hi 👋, I'm Akito</h1>
-<h3 align="center">A passionate Software Developer from Japan 🇯🇵</h3>
+# Hi, I'm Akito 👋
 
----
-
-### About Me
-- Originally from **Tokyo, Japan** — with experience living in **Ireland🇮🇪, Canada🇨🇦, Spain🇪🇸, and the UK🇬🇧**
-- **Full Stack Engineer at e-dash**
-- Passionate about **Web Application development, Cloud Technologies, DevOps, etc.**
-- **My Resume:** https://iakito-dev.github.io/Resume_JP/
-
+Full Stack Engineer based in Tokyo 🇯🇵  
 ---
 
 ### Tech Stack
@@ -41,5 +33,4 @@
 
 ---
 
-### Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/akito-dev)
