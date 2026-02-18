@@ -5,27 +5,9 @@
 
 ### About Me
 - Originally from **Tokyo, Japan** — with experience living in **Ireland🇮🇪, Canada🇨🇦, Spain🇪🇸, and the UK🇬🇧**
-- Former **Cloud Support Engineer at AWS Japan**, now pursuing **Software development role**
+- **Full Stack Engineer at e-dash**
 - Passionate about **Web Application development, Cloud Technologies, DevOps, etc.**
 - **My Resume:** https://iakito-dev.github.io/Resume_JP/
-
----
-
-### Projects
-- [**Today’s Cocktail**](https://github.com/iakito-dev/todays-cocktail) – A cocktail recipe web app built with **Rails API + React + Supabase + OpenAI API**  
-  _Explore cocktail recipes, ingredients, and daily picks_
-
----
-
-### Currently Learning
-- **Ruby on Rails** – RESTful APIs, MVC, ActiveRecord  
-- **React + TypeScript** – Modern, modular UI development  
-- **AWS DevOps** – CI/CD, Terraform, ECS Fargate, and automation
-
----
-
-### Ask Me About
-**Databases (RDS, Aurora MySQL)**, **AWS architecture**, and **DevOps workflows**
 
 ---
 
@@ -60,6 +42,4 @@
 ---
 
 ### Connect with Me
-- 📧 **iakito.dev@gmail.com**  
-- 🌐 [Portfolio – todayscocktails.com](https://todayscocktails.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/akito-dev)
